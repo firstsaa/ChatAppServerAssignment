@@ -1,0 +1,36 @@
+{
+    "rooms": [
+        {
+            "id": 1,
+            "name": "Party Room",
+            "chats": [
+                {
+                    "id": 1,
+                    "name": "chat1",
+                    "messages": "hello"
+                },
+                {
+                    "id": 2,
+                    "name": "chat2",
+                    "messages": "hi"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Study Room",
+            "chats": [
+                {
+                    "id": 3,
+                    "name": "chat3",
+                    "messages": "Student"
+                },
+                {
+                    "id": 4,
+                    "name": "chat4",
+                    "messages": "Shcool"
+                }
+            ]
+        }
+    ]
+}
